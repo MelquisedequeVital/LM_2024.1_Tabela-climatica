@@ -4,6 +4,7 @@ table{
     font-size: 12px;
     width: 20%;
     background-color: rgb(240,248,255);
+    margin: auto;
 }
 
 th, td{
@@ -15,6 +16,6 @@ th{
     background-color: rgb(168, 218, 213);
 }
 
-td:hover{
+tr:hover{
     background-color: rgb(168, 218, 213);
 }
